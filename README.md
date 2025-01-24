@@ -1,7 +1,10 @@
 Animal Pictures Classification Using CNN
+
+
 A convolutional neural network (CNN) project for classifying animal images from the Animal-10 dataset. This project demonstrates deep learning concepts using TensorFlow/Keras and provides a complete pipeline for training, evaluation, and testing.
 
 Project Overview
+
 This project aims to classify animal pictures into predefined categories using CNNs. The key steps include:
 
 Data preprocessing (image resizing, normalization).
